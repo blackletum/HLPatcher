@@ -11,7 +11,7 @@
         "type": "goldsrc-engine-fetcher",
         "url": "https://github.com/FWGS/xash3d-fwgs",
         "patch_dir_name": "xash3d-fwgs",
-        "stable_commit": "e9b6324",
+        "stable_commit": "8b5732b",
         "force_stable": false
       },
       {
@@ -42,7 +42,7 @@
         "url": "https://github.com/FWGS/hlsdk-portable",
         "patch_dir_name": "hlsdk-portable-hlfixed",
         "branch": "hlfixed",
-        "stable_commit": "c51428b",
+        "stable_commit": "5bc5bec",
         "force_stable": false
       },
       {
@@ -73,7 +73,7 @@
         "url": "https://github.com/FWGS/hlsdk-portable",
         "patch_dir_name": "hlsdk-portable-opforfixed",
         "branch": "opforfixed",
-        "stable_commit": "b93389d",
+        "stable_commit": "fe33d6e",
         "force_stable": false
       },
       {
@@ -104,7 +104,7 @@
         "url": "https://github.com/FWGS/hlsdk-portable",
         "patch_dir_name": "hlsdk-portable-bshift",
         "branch": "bshift",
-        "stable_commit": "390ea89",
+        "stable_commit": "fe7cd20",
         "force_stable": false
       },
       {
@@ -135,7 +135,7 @@
         "url": "https://github.com/FWGS/hlsdk-portable",
         "patch_dir_name": "hlsdk-portable-dmc",
         "branch": "dmc",
-        "stable_commit": "670aebd",
+        "stable_commit": "913c221",
         "force_stable": false
       },
       {
